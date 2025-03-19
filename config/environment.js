@@ -4,7 +4,7 @@ module.exports = function (environment) {
   const ENV = {
     modulePrefix: 'nasa-app',
     environment,
-    rootURL: '/',
+    rootURL: '/Nasa/',
     locationType: 'history',
     EmberENV: {
       EXTEND_PROTOTYPES: false,
